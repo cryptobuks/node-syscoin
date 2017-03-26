@@ -1,7 +1,7 @@
 {
   "name": "syscoin",
-  "description": "Communicate with syscoin-cli via JSON-RPC",
-  "version": "2.2.0",
+  "description": "Communicate with syscoin-cli via JSON-RPC, updated for Syscoin 2.1.3",
+  "version": "2.3.0",
   "main": "lib/index.js",
   "keywords": [
     "syscoin",
